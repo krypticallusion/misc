@@ -1,0 +1,29 @@
+{
+ "name": "<b><font color=\"#FFFFFF\">Arenium</font></b>",
+ "short_description": "A kernel by <b>krypticallusion</b>",
+ "long_description": "Welcome to <b>Arenium</b>! . !<br><br>I'm just tried, like how everyone does?..<br><a href=\"http://www.github.com/Grarak\">My Git</a>",
+ "github": "https://github.com/krypticallusion/athene.git",
+ "features": [
+  "Kernel Version : 3.10.107",
+   "Built on Google Toolchain",
+  {
+  "name": "CPU Governors",
+   "items": [
+    "zzmoove",
+    "All the other basic ones",
+  ]
+   },
+  "Kcal support",
+  "ThunderPlug",
+  "More Comming soon.",
+  "Gotta keep it minimalistic",
+],
+
+"downloads": [
+   {
+    "name": "1.0.0"
+    "description":  "<b>Only for <i> 8.0.0 </i> not for <i>STOCK ROMs</i></b>",
+    "url": "https://tg-go.noyes.in/i/BQADBQADFAADsUT5Vr0yeZaMTqhUAg/fbe91d1af484f4c154b5409720d67a66/1507865078",
+    "install_method": "Boot to TWRP, Flash the zip and Enjoy the Goodness!",
+    "changelog": "Initial Commit"
+
