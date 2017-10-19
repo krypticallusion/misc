@@ -1,7 +1,7 @@
 {
 	"name": "<b><font color=\"#FFFFFF\">Arenium</font></b>",
 	"short_description": "A kernel by <b>krypticallusion</b>",
-	"long_description": "Welcome to <b>Arenium</b>! . !<br><br>I'm just tried, like how everyone does?..<br><a href=\"http://www.github.com/Grarak\">My Git</a>",
+	"long_description": "Welcome to <b>Arenium</b>!",
 	"github": "https://github.com/krypticallusion/athene.git",
 
 	"features": [
@@ -46,7 +46,8 @@
 				"description": "<b>Only for <i>Oreo Based ROMs ONLY</i></b>",
 				"url": "https://github.com/krypticallusion/misc/raw/master/KA/builds/Arenium-O.zip",
 				"install_method": "Boot to TWRP, Flash the zip and Enjoy the Goodness!",
-				"changelog": "Initial Release"
+				"md5sum": "789f5909921c44f8a643a26009f27ef5",
+				"changelog": ["Initial Release"]
 			}]
 		}
 	]
